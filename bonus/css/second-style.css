@@ -1,22 +1,21 @@
 body {
   box-sizing: border-box;
   margin: 0;
-}
-
-header, main, footer {
-  padding-left: 15px;
+  width: 800px;
+  margin: auto;
 }
 
 header {
+  padding-top: 5%;
   background-image: url(../img/pattern.png);
   background-color: #4ea0ff;
   background-size: 40%;
   background-repeat: repeat;
-  padding-top: 4%;
 }
 
+
 header img {
-  width: 12%;
+  width: 15%;
 }
 
 .titolo-e-sottotitolo p{
@@ -60,7 +59,6 @@ footer .foto {
 
 footer h3 {
   color: gray;
-
 }
 
 .foto.monitor {

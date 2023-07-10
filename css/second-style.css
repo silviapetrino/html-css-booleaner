@@ -1,16 +1,13 @@
 body {
   box-sizing: border-box;
-  margin: 0;
-  width: 800px;
-  margin: auto;
 }
+
+
 
 header {
   padding-top: 5%;
   background-image: url(../img/pattern.png);
-  background-color: #4ea0ff;
   background-size: 40%;
-  background-repeat: repeat;
 }
 
 
