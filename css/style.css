@@ -58,6 +58,10 @@ footer .foto {
   font-weight: 600;
 }
 
+footer h3 {
+  color: gray;
+}
+
 .foto.monitor {
   background-image: url(../img/monitor.jpg);
 }
