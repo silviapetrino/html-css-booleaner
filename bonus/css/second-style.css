@@ -11,11 +11,9 @@ header, main, footer {
 #sfondo-header, header {
   background-image: url(../img/pattern.png);
   background-color: #4ea0ff;
-  background-size: 40%;
   background-repeat: repeat;
-  height: 10%;
-  padding-top: 20px;
 }
+
 
 header img {
   width: 15%;
