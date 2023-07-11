@@ -3,8 +3,9 @@ body {
   margin: 0;
 }
 
-header, main, footer {
-  width: 800px;
+.container {
+  width: 90%;
+  max-width: 1200px;
   margin: auto;
 }
 
@@ -12,6 +13,7 @@ header, main, footer {
   background-image: url(../img/pattern.png);
   background-color: #4ea0ff;
   background-repeat: repeat;
+  background-size: 30%;
 }
 
 
